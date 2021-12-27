@@ -9,7 +9,7 @@ project(ignition-dome VERSION 1.0.1)
 # Find ignition-cmake
 #============================================================================
 # If you get an error at this line, you need to install ignition-cmake
-find_package(ignition-cmake2 2.9.0 REQUIRED)
+find_package(ignition-cmake2 2.10.0 REQUIRED)
 
 #============================================================================
 # Configure the project
