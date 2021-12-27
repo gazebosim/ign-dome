@@ -31,7 +31,7 @@ ign_find_package(ignition-rendering4 REQUIRED VERSION 4.9.1)
 ign_find_package(ignition-sensors4 REQUIRED VERSION 4.3.0)
 ign_find_package(ignition-tools REQUIRED VERSION 1.4.1)
 ign_find_package(ignition-transport9 REQUIRED VERSION 9.1.2)
-ign_find_package(sdformat10 REQUIRED VERSION 10.6.1)
+ign_find_package(sdformat10 REQUIRED VERSION 10.7.0)
 
 if(build_warnings)
   set(all_warnings " CONFIGURATION WARNINGS:")
